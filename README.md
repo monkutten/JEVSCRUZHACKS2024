@@ -25,7 +25,7 @@ Google Project API Key
 Google: credentials.json
 Vectara: token.json
 
-Usage: 
-npx flowise start <- initializes localhost for Chatbot
+Usage:  
+npx flowise start <- initializes localhost for Chatbot  
 streamlit run vectarainterface.py <- initializes localhost for Streamlit Website
 
