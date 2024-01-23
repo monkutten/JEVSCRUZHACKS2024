@@ -19,11 +19,11 @@ open-ai
 streamlit
 vectara
 
-Credentials Needed:
-Vectara API Key
-Google Project API Key
-Google: credentials.json
-Vectara: token.json
+Credentials Needed:  
+Vectara API Key  
+Google Project API Key  
+Google: credentials.json  
+Vectara: token.json  
 
 Usage:  
 npx flowise start <- initializes localhost for Chatbot  
