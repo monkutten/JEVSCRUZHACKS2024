@@ -1,6 +1,5 @@
 # JEVSCRUZHACKS2024
 CRUZHACKS 2024 Project: SlugShack
-Our first hackathon project
 Created in collaboration by: James Manlangit, Ethan Phan, Vishnu Naroth, Sofia Dang 
 
 Description: 
