@@ -1,8 +1,9 @@
 # JEVSCRUZHACKS2024
 
 CRUZHACKS 2024 Project: SlugShack  
-Created in collaboration by: James Manlangit, Ethan Phan, Vishnu Naroth, Sofia Dang 
-Presentation
+Created in collaboration by: James Manlangit, Ethan Phan, Vishnu Naroth, Sofia Dang
+
+Presentation:
 https://docs.google.com/presentation/d/1kROJYi_mQe_RrOY-w5lhHKKvklgCcrkuRApSUdg92yY/edit?usp=sharing
 
 Description: 
