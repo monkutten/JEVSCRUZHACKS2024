@@ -2,6 +2,8 @@
 
 CRUZHACKS 2024 Project: SlugShack  
 Created in collaboration by: James Manlangit, Ethan Phan, Vishnu Naroth, Sofia Dang 
+Presentation
+https://docs.google.com/presentation/d/1kROJYi_mQe_RrOY-w5lhHKKvklgCcrkuRApSUdg92yY/edit?usp=sharing
 
 Description: 
 SlugShack connects graduating/departing students in desperately needed houses with students seeking somewhere to call home. Chatbot coached on SC Housing Crisis studies explains complex housing system. A proof-of-concept of a tool that could alleviate the UCSC student housing crisis. 
